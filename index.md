@@ -1,13 +1,5 @@
 # Kriti's First CS193 Homework
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-
 
 - The teachers
 - explanations
